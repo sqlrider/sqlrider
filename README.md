@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sqlrider
-- 👀 I’m interested in T-SQL, Powershell and combining the two to automate tasks and do cool things. Oh, and Azure!
-- 🌱 I’m currently learning some front-end web stuff
-- :question: and working on a SQL Server project I think could be useful for many in the community.
+- 👋 Hi, I’m @sqlrider (Alex Stuart), coder by winter, biker by summer
+- 👀 I’m interested in T-SQL, Powershell and combining the two to automate tasks and do cool things.
+- 🌱 I’m currently learning some front-end web stuff...
+- :question: ...for a SQL Server project I think could be useful for many in the community.
 - :computer: Tech blog at https://sqlrider.net 
 - 📫 contact@alexstuart.net
 
