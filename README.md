@@ -2,7 +2,7 @@
 - 👀 I’m interested in T-SQL, Powershell and combining the two to automate tasks and do cool things.
 - 🌱 I’m currently learning some front-end web stuff...
 - :question: ...for a SQL Server project I think could be useful for many in the community.
-- :computer: Tech blog at https://sqlrider.net 
+- :computer: Tech blog at https://alexstuart.net 
 - 📫 contact@alexstuart.net
 
 <!---
